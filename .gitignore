@@ -1,3 +1,5 @@
 anyBase2Dec.class
 dec2AnyBase.class
 dec2Bin.class
+anyBaseToAnyBase.class
+octalAddition.class
