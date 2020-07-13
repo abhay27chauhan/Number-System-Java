@@ -3,3 +3,5 @@ dec2AnyBase.class
 dec2Bin.class
 anyBaseToAnyBase.class
 octalAddition.class
+octalMultiplication.class
+octalSubtraction.class
